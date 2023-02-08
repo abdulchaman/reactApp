@@ -6,7 +6,6 @@ const Header = () =>{
         <h1>Developer Funnel</h1>
         <hr></hr>
         </div>
-
     )
 }
 export default Header;
